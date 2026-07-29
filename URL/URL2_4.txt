@@ -1,0 +1,2 @@
+做一個skill「週業績報告信生成」寫成email草稿
+https://m11409924.github.io/
