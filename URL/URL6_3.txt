@@ -1,2 +1,2 @@
-這是6_3的作業
-https://2026hai.github.io/
+這是作業6-3 Ollama 安裝
+https://m11409924.github.io/
