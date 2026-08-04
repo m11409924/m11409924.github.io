@@ -1,2 +1,2 @@
-這是7_2的作業
-https://2026hai.github.io/
+這是作業7-2 Opal 部落格文章生成器
+https://m11409924.github.io/
